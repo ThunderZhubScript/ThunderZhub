@@ -3,8 +3,7 @@ local allowedMaps = {
     [16732694052] = "https://raw.githubusercontent.com/ThunderZhubScript/ThunderZ-hub/main/ThunderZhub-Fisch.lua",  -- Fisch
     [87854376962069] = "https://raw.githubusercontent.com/ThunderZhubScript/ThunderZ-hub/main/ThunderZhub-The1.000.000GlassBridge.lua",  -- The $1,000,000 Glass Bridge
     [16993432698] = "https://raw.githubusercontent.com/ThunderZhubScript/ThunderZ-hub/main/ThunderZhub-Impossible-Squid-Game-Glass-Bridge-2.lua",  -- Impossible Squid Game! Glass Bridge 2
-    [13827198708] = "https://raw.githubusercontent.com/ThunderZhubScript/ThunderZ-hub/main/ThunderZhub-Pull-a-Sword.lua",  -- Pull a Sword
-    [2753915549] = "https://raw.githubusercontent.com/ThunderZhubScript/ThunderZ-hub/refs/heads/main/ThunderZhub-Blox-Fruits.lua" -- Blox Fruits
+    [13827198708] = "https://raw.githubusercontent.com/ThunderZhubScript/ThunderZ-hub/main/ThunderZhub-Pull-a-Sword.lua"  -- Pull a Sword
 }
 
 -- ตรวจสอบ PlaceId ของแมพที่กำลังเล่น
