@@ -8,13 +8,12 @@ local allowedMaps = {
 
 -- ตรวจสอบ PlaceId ของแมพที่กำลังเล่น
 local placeId = game.PlaceId
-print("PlaceId ที่กำลังเล่นอยู่:", placeId)  -- พิมพ์ PlaceId เพื่อตรวจสอบ
 
 -- เช็คว่า PlaceId ที่กำลังเล่นอยู่มีในลิสต์ที่อนุญาตไหม
 if allowedMaps[placeId] then
     -- โหลดและรันสคริปต์จาก URL
-    print("กำลังโหลดสคริปต์จาก URL:", allowedMaps[placeId])
     loadstring(game:HttpGet(allowedMaps[placeId]))()
 else
-    warn("ไม่สามารถรันสคริปต์ในแมพนี้ได้, PlaceId:", placeId)
+    -- ถ้า PlaceId ไม่ตรงกับที่กำหนด, เตะผู้เล่นออกจากเกม
+    game:Shutdown()
 end
