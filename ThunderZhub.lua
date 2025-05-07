@@ -4,6 +4,7 @@ local allowedMaps = {
     [87854376962069] = "https://raw.githubusercontent.com/ThunderZhubScript/ThunderZ-hub/main/ThunderZhub-The1.000.000GlassBridge.lua",  -- The $1,000,000 Glass Bridge
     [16993432698] = "https://raw.githubusercontent.com/ThunderZhubScript/ThunderZ-hub/main/ThunderZhub-Impossible-Squid-Game-Glass-Bridge-2.lua",  -- Impossible Squid Game! Glass Bridge 2
     [13827198708] = "https://raw.githubusercontent.com/ThunderZhubScript/ThunderZ-hub/main/ThunderZhub-Pull-a-Sword.lua"  -- Pull a Sword
+    [17534163435] = "https://raw.githubusercontent.com/ThunderZhubScript/ThunderZ-hub/refs/heads/main/Dungeon-RNG.lua" -- Dungeon RNG
 }
 
 -- ตรวจสอบ PlaceId ของแมพที่กำลังเล่น
