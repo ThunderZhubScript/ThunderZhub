@@ -3,7 +3,8 @@ local allowedMaps = {
     [16732694052] = "https://raw.githubusercontent.com/ThunderZhubScript/ThunderZ-hub/main/ThunderZhub-Fisch.lua",  -- Fisch
     [13827198708] = "https://raw.githubusercontent.com/ThunderZhubScript/ThunderZ-hub/main/ThunderZhub-Pull-a-Sword.lua",  -- Pull a Sword
     [17534163435] = "https://raw.githubusercontent.com/ThunderZhubScript/ThunderZ-hub/refs/heads/main/Dungeon-RNG.lua", -- Dungeon RNG
-    [110829983956014] = "https://raw.githubusercontent.com/ThunderZhubScript/ThunderZ-hub/refs/heads/main/ThunderZhub-Anime-Card-Clash.lua" -- Anime Card Clash
+    [110829983956014] = "https://raw.githubusercontent.com/ThunderZhubScript/ThunderZ-hub/refs/heads/main/ThunderZhub-Anime-Card-Clash.lua", -- Anime Card Clash
+    [4520749081] = "https://raw.githubusercontent.com/ThunderZhubScript/ThunderZ-hub/refs/heads/main/ThunderZhub-King-Legacy.lua" -- King legacy
 }
 
 -- ตรวจสอบ PlaceId ของแมพที่กำลังเล่น
