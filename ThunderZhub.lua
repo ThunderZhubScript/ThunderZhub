@@ -4,7 +4,8 @@ local allowedMaps = {
     [17534163435] = "https://raw.githubusercontent.com/ThunderZhubScript/ThunderZ-hub/refs/heads/main/ThunderZhub-Dungeon-RNG.lua", -- Dungeon RNG
     [110829983956014] = "https://raw.githubusercontent.com/ThunderZhubScript/ThunderZ-hub/refs/heads/main/ThunderZhub-Anime-Card-Clash.lua", -- Anime Card Clash
     [4520749081] = "https://raw.githubusercontent.com/ThunderZhubScript/ThunderZ-hub/refs/heads/main/ThunderZhub-King-Legacy.lua", -- King legacy
-    [13827198708] = "https://github.com/ThunderZhubScript/ThunderZ-hub/blob/main/ThunderZhub-Pull-a-SwordV2.lua" -- Pull a SwordV2
+    [13827198708] = "https://github.com/ThunderZhubScript/ThunderZ-hub/blob/main/ThunderZhub-Pull-a-SwordV2.lua", -- Pull a SwordV2
+    [123741668193208] = "https://raw.githubusercontent.com/ThunderZhubScript/ThunderZ-hub/refs/heads/main/ThunderZhub-The-1.000.000-Jump-Rope" -- The 1,000,000 Jump Rope
 }
 
 -- ตรวจสอบ PlaceId ของแมพที่กำลังเล่น
